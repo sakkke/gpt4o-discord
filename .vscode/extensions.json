@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "ms-python.flake8",
-    "editorconfig.editorconfig"
+    "editorconfig.editorconfig",
+    "cameron.vscode-pytest"
   ]
 }
