@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "gpt4o-discord"
+version = "0.1.0"
+description = ""
+authors = ["sakkke <84666033+sakkke@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+py-cord = "^2.5.0"
+openai = "^1.29.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.2.0"
+flake8 = "^7.0.0"
+black = "^24.4.2"
+mypy = "^1.10.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
