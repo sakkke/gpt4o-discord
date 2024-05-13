@@ -3,6 +3,7 @@
     "ms-python.flake8",
     "editorconfig.editorconfig",
     "cameron.vscode-pytest",
-    "ms-python.black-formatter"
+    "ms-python.black-formatter",
+    "ms-python.mypy-type-checker"
   ]
 }
