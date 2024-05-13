@@ -6,6 +6,12 @@
 poetry install
 ```
 
+## Usage
+
+```
+poetry run python -m gpt4o-discord
+```
+
 ## Dependencies
 
 - `py-cord`
