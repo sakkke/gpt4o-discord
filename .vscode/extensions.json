@@ -2,6 +2,7 @@
   "recommendations": [
     "ms-python.flake8",
     "editorconfig.editorconfig",
-    "cameron.vscode-pytest"
+    "cameron.vscode-pytest",
+    "ms-python.black-formatter"
   ]
 }
